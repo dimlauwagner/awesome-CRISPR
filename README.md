@@ -22,6 +22,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [Cas-OFFinder](http://www.rgenome.net/cas-offinder/) - [webserver] - An algorithm that searches for potential off-target sites of Cas9 RNA-guided endonucleases.
 - [CCtop](https://crispr.cos.uni-heidelberg.de) - [webserver] - An algorithm to predict CRISPR/Cas9 target.
 - [CHOPCHOP](http://chopchop.cbu.uib.no/index.php) - [webserver] - A web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1.
+- [COSMID: CRISPR](https://crispr.bme.gatech.edu/) - [webserver] - A web tool to identify potential off-target sites for CRISPR/Cas9. Automatically designs primer pairs to sequence the identified loci for TIDE analysis and different NGS sequencing approaches.
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
 - [CRISPRa/i](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design-crisprai) - [webserver] - This tool ranks and picks CRISPRa/i sgRNA sequences candidates by the gene targets provided, while attempting to maximize on-target activity and minimizing off-target activity.
 - [CRRISPRdirect](http://crispr.dbcls.jp/) - [webserver] - A software for designing CRISPR/Cas guide RNA with reduced off-target sites.
